@@ -1,29 +1,67 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Komo1284.Komo1284" />
 
-![github-header-image](https://github.com/Komo1284/Komo1284/assets/136778489/2288243e-ce5f-4537-9e7b-2769e0dd31aa)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+KOMOREBI+!;" />
+</h1>
 
-<h1 align="center">Hi 👋, I'm KOMOREBI</h1>
-<h3 align="center">A passionate backend developer from South Korea</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<h3 align="center">A passionate software developer from Korea ᴋʀ</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=komo1284&label=Profile%20views&color=0e75b6&style=flat" alt="komo1284" /> </p>
+<br/>
 
-- 🌱 I’m currently learning **SpringBoot + JPA**
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, AWS, SpringBoot, JPA**
 
-- 👨‍💻 All of my projects are available at [Notion](https://island-fuchsia-d7d.notion.site/c9e28d38e75240029b3f33e61e6f7cac)
+💬 Ask me about **Java, SpringBoot [here](https://github.com/Komo1284)**
 
-- 📝 I regularly write articles on [Tistory Blog](https://komorebi1284.tistory.com/)
+⚡ Fun fact **I'm a developer from Patissier :)**
 
-- 📫 How to reach me **karan1284@naver.com**
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:pedro.sales.rkdgur96@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://komorebi1284.tistory.com/" target="_blank">
+    [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={KOMOREBI})](https://github.com/loosie/github-readme-tistory-card)
+  </a>
+  <a href="https://island-fuchsia-d7d.notion.site/c9e28d38e75240029b3f33e61e6f7cac](https://island-fuchsia-d7d.notion.site/c9e28d38e75240029b3f33e61e6f7cac" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=apple,windows,linux,ubuntu" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,vscode,eclipse,idea,git,github,notion" /><br>
+    <img src="https://skillicons.dev/icons?i=py,java,spring,maven,gradle,hibernate,postman,mysql,aws,docker" /><br>
+</div>
+<br/>
+<hr/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Komo1284/Komo1284/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=komo1284&show_icons=true&locale=en&layout=compact" alt="komo1284" /></p>
+<hr/>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-Komo1284.vercel.app/?user=Komo1284&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-Komo1284.vercel.app/api?username=Komo1284&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-Komo1284.vercel.app/api/top-langs/?username=Komo1284&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=komo1284&show_icons=true&locale=en" alt="komo1284" /></p>
+<br/><br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=komo1284&" alt="komo1284" /></p>
+<hr/>
