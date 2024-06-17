@@ -22,18 +22,18 @@
  
 <div align="center"> 
   <a href="mailto:pedro.sales.rkdgur96@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
   </a>
-  <a href="https://komorebi1284.tistory.com/" target="_blank">
-    [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={KOMOREBI})](https://github.com/loosie/github-readme-tistory-card)
-  </a>
-  <a href="https://island-fuchsia-d7d.notion.site/c9e28d38e75240029b3f33e61e6f7cac](https://island-fuchsia-d7d.notion.site/c9e28d38e75240029b3f33e61e6f7cac" target="_blank">
+  <a href="https://komo1284.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+  <a href="https://komorebi1284.tistory.com/">
+    <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory%20Blog" />
+  </a>
+  
 </div>
-
  <hr/>
- 
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -56,12 +56,15 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-Komo1284.vercel.app/?user=Komo1284&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-Komo1284.vercel.app/api?username=Komo1284&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://streak-stats.demolab.com/?user=komo1284&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=komo1284&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-Komo1284.vercel.app/api/top-langs/?username=Komo1284&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komo1284&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
 
 <hr/>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Thanks+for+visiting!+👋;" />
+</h1>
