@@ -20,18 +20,18 @@
 
  </div>
  
-<div align="center"> 
-  <a href="mailto:pedro.sales.rkdgur96@gmail.com" style="display: inline-block;" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"  />
+<div align="center">
+  <a href="mailto:pedro.sales.rkdgur96@gmail.com" style="display: inline-block; text-decoration: none; vertical-align: top;" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://komo1284.github.io" target="_blank" style="display: inline-block;">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" t/> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://komo1284.github.io" target="_blank" style="display: inline-block; text-decoration: none; vertical-align: top;">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-  <a href="https://komorebi1284.tistory.com/" style="display: inline-block;" arget="_blank" >
+  <a href="https://komorebi1284.tistory.com/" style="display: inline-block; text-decoration: none; vertical-align: top;" target="_blank">
     <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory%20Blog" />
   </a>
-  
 </div>
+
  <hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
