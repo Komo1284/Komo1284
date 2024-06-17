@@ -21,13 +21,13 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.rkdgur96@gmail.com">
+  <a href="mailto:pedro.sales.rkdgur96@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
   </a>
-  <a href="https://komo1284.github.io" target="_blank">
+  <a href="https://komo1284.github.io" target="_blank" style="text-decoration: none;">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-  <a href="https://komorebi1284.tistory.com/">
+  <a href="https://komorebi1284.tistory.com/" style="text-decoration: none;">
     <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory%20Blog" />
   </a>
   
