@@ -29,7 +29,7 @@
       </a>
     </div>
     <div style="text-align: center; display: inline-block;">
-      <a href="https://komo1284.github.io" target="_blank" style="text-decoration: none;">
+      <a href="[https://komo1284.github.io](https://island-fuchsia-d7d.notion.site/c9e28d38e75240029b3f33e61e6f7cac?pvs=74)" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" style="display: block;" />
       </a>
     </div>
