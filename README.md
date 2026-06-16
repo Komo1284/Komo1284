@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2D4A2B,100:6A8A5A&height=200&section=header&text=KOMOREBI&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Crafting%20calm,%20useful%20apps%20%E2%80%94%20from%20pastry%20to%20pixels&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2D4A2B,100:6A8A5A&height=200&section=header&text=KOMOREBI&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=A%20plant-loving%20developer%20crafting%20calm,%20useful%20apps&descAlignY=58&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A8A5A&center=true&vCenter=true&width=600&lines=Mobile+%26+Full-stack+Developer+from+Korea+%F0%9F%87%B0%F0%9F%87%B7;Ex-patissier+%F0%9F%91%A8%E2%80%8D%F0%9F%8D%B3+turned+developer;Currently+building+SikJipSa+%F0%9F%8C%BF" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A8A5A&center=true&vCenter=true&width=600&lines=Mobile+%26+Full-stack+Developer+from+Korea+%F0%9F%87%B0%F0%9F%87%B7;A+developer+who+loves+plants+%F0%9F%8C%BF;Building+SikJipSa,+a+plant-care+app+%F0%9F%AA%B4" />
 
 </div>
 
@@ -10,20 +10,34 @@
 
 ### 🌿 About me
 
-```text
+```js
 const komorebi = {
   name: "KOMOREBI",            // 木漏れ日 — sunlight through leaves
   role: "Mobile & Full-stack Developer",
-  background: "Pâtissier → Developer",
   building: "SikJipSa — a cross-platform plant-care app (iOS · Android · Web)",
-  focus: ["React Native / Expo", "TypeScript", "calm product design"],
-  alsoLove: ["Spring Boot", "clean APIs", "shipping things"],
+  stack: ["React Native / Expo", "TypeScript", "Supabase", "Spring Boot"],
+  loves: ["plants 🪴", "calm product design", "shipping things"],
 };
 ```
 
-🔭 Building **[SikJipSa(식집사)](https://github.com/Komo1284)** — a plant-care companion: weather-aware watering, multi-language (KO/EN/JA), built with **React Native + Expo + Supabase**
-🌱 Going deeper into **mobile architecture, TypeScript, and product polish**
-⚡ Fun fact — I used to make desserts as a **pâtissier** before I started shipping code
+<table>
+  <tr>
+    <td>🔭</td>
+    <td>Building <a href="https://github.com/Komo1284"><b>SikJipSa(식집사)</b></a> — a plant-care companion with <b>weather-aware watering</b> &amp; multi-language support (KO / EN / JA)</td>
+  </tr>
+  <tr>
+    <td>🪴</td>
+    <td>Crafted with <b>React Native · Expo · Supabase</b>, designed for a calm, gentle experience</td>
+  </tr>
+  <tr>
+    <td>🌱</td>
+    <td>Currently leveling up <b>mobile architecture · TypeScript · product polish</b></td>
+  </tr>
+  <tr>
+    <td>🌿</td>
+    <td>Fun fact — <b>KOMOREBI</b> (木漏れ日) means <i>“sunlight filtering through leaves”</i></td>
+  </tr>
+</table>
 
 ---
 
@@ -50,7 +64,6 @@ const komorebi = {
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
